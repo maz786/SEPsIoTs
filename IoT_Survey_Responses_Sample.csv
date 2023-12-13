@@ -1,0 +1,11 @@
+OrganizationType,AgeRange,Gender,EducationLevel,JobTitle,Industry,ExperienceYears,OrganizationSize,Region,RoleInTechnology,IoTFamiliarity,RegulatoryFrameworksSupport,SEPImportance,TransparencyInSEPRoyalty,PatentPoolsEffectiveness,DisputeResolutionAdequacy,SMEAccessToSEPLicensing,PatentLawSuitability,PatentHoldupIssue,InterdisciplinaryCollaboration,StandardizationAdequacy,EmergingTechnologiesImpact,StakeholderCollaborationLevel
+TechCompany,20-30,Male,Masters,Engineer,Technology,5,SME,NorthAmerica,Development,5,4,5,3,4,5,3,4,5,4,3,5,4
+ResearchInstitution,<20,Female,Bachelors,Researcher,Healthcare,1,SME,Europe,Licensing,2,3,4,2,3,4,2,3,4,3,2,4,3
+Government,31-40,Female,PhD,PolicyMaker,Government,10,Large,Asia,PolicyMaking,4,5,3,4,5,3,4,5,3,5,4,3,5
+TechCompany,41-50,Male,Masters,Manager,Manufacturing,15,Large,SouthAmerica,Development,5,4,5,5,4,5,5,4,5,4,5,5,4
+SME,51-60,Male,Bachelors,Developer,ConsumerGoods,20,SME,Africa,Licensing,3,2,5,3,3,4,3,2,2,2,3,2,2
+LargeCorporation,20-30,Female,PhD,Engineer,Technology,3,SME,NorthAmerica,PolicyMaking,1,1,2,1,2,1,1,1,1,1,1,1,1
+Government,31-40,Male,Masters,Researcher,Healthcare,8,Large,Europe,Development,4,5,4,5,5,5,5,5,5,5,5,4,5
+ResearchInstitution,41-50,Female,Bachelors,PolicyMaker,Government,12,Large,Asia,Licensing,5,3,5,4,3,3,4,4,4,3,4,5,4
+SME,51-60,Male,PhD,Developer,ConsumerGoods,18,SME,SouthAmerica,PolicyMaking,2,2,3,2,1,2,2,3,3,2,2,3,3
+TechCompany,60+,Female,Masters,Manager,Technology,25,Large,Africa,Development,3,4,4,3,4,4,3,2,2,4,3,2,2
